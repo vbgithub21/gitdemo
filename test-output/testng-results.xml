@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21846" started-at="2021-02-02T16:21:37Z" finished-at="2021-02-02T16:21:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21846" started-at="2021-02-02T16:21:37Z" finished-at="2021-02-02T16:21:59Z">
+      <class name="vbtest.Mavenjava.vbmavenTest">
+        <test-method status="PASS" signature="config()[pri:0, instance:vbtest.Mavenjava.vbmavenTest@5f341870]" name="config" is-config="true" duration-ms="1266" started-at="2021-02-02T11:21:37Z" finished-at="2021-02-02T11:21:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method status="PASS" signature="InitialDemo()[pri:0, instance:vbtest.Mavenjava.vbmavenTest@5f341870]" name="InitialDemo" duration-ms="20493" started-at="2021-02-02T11:21:38Z" finished-at="2021-02-02T11:21:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitialDemo -->
+      </class> <!-- vbtest.Mavenjava.vbmavenTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

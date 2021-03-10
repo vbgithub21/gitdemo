@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="21461" started-at="2021-02-02T15:17:19Z" finished-at="2021-02-02T15:17:41Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="21461" started-at="2021-02-02T15:17:19Z" finished-at="2021-02-02T15:17:41Z">
+      <class name="vbtest.Mavenjava.mavenTest">
+        <test-method status="PASS" signature="mavenTestlogin()[pri:0, instance:vbtest.Mavenjava.mavenTest@6767c1fc]" name="mavenTestlogin" duration-ms="3" started-at="2021-02-02T15:17:20Z" finished-at="2021-02-02T15:17:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mavenTestlogin -->
+      </class> <!-- vbtest.Mavenjava.mavenTest -->
+      <class name="vbtest.Mavenjava.vbmavenTest">
+        <test-method status="PASS" signature="config()[pri:0, instance:vbtest.Mavenjava.vbmavenTest@4678c730]" name="config" is-config="true" duration-ms="179" started-at="2021-02-02T15:17:19Z" finished-at="2021-02-02T15:17:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method status="PASS" signature="mavenTestloginvb()[pri:0, instance:vbtest.Mavenjava.vbmavenTest@4678c730]" name="mavenTestloginvb" duration-ms="21184" started-at="2021-02-02T15:17:20Z" finished-at="2021-02-02T15:17:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mavenTestloginvb -->
+      </class> <!-- vbtest.Mavenjava.vbmavenTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
